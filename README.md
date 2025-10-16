@@ -1,7 +1,3 @@
-# heart-disease-statistical-learning
-Classification of heart disease using Logistic Regression, Random Forest and Neural Networks — R project
-
-
 # Heart Disease Prediction – Statistical Learning Project
 
 **Author:** Giuseppe Lombardia  
