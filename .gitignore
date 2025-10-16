@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# R environment
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Data and outputs
+data/processed/
+figures/
+*.csv~
+*.tmp
+*.rds
